@@ -1,3 +1,5 @@
+<h1>SharePoint Themes</h1>
+
 <p>
 	SharePoint Themes are a collection of CSS themes you can use with your Site Collection. Any child site can inherit the style/theme as well. 
 	Select, highlight, and hover over items also has different color variants.
@@ -55,7 +57,7 @@
 
 <h2>Styles</h2>
 
-<h2>Funding</h2>
+<h3>Funding</h3>
 <p>The color scheme for the Funding division is based on the CDC public website. The main colors are&#160;similar to the default colors of SharePoint 2013.&#160;</p>
 <p>
    <strong>Primary Colors:</strong> </p>
@@ -71,7 +73,7 @@
 
 <br/>
 
-<h2>Grants</h2>
+<h3>Grants</h3>
 <p>The color scheme for the Grants division is based on the CDC public website. The primary colors are of a Forest Green variety and tone. </p>
 <p>
    <strong>Primary Colors:</strong> </p>
@@ -85,7 +87,7 @@
    </tbody>
 </table>
 <br/>
-<h2>Budget</h2>
+<h3>Budget</h3>
 <p>The color scheme for the Budget division is based on the CDC public website. The color scheme is green. </p>
 <p>
    <strong>Primary Colors:</strong> </p>
@@ -99,7 +101,7 @@
    </tbody>
 </table>
 <br/>
-<h2>Contracts</h2>
+<h3>Contracts</h3>
 <p>The color scheme for the Contracts division is based on the CDC public website. The primary colors are purple and violet. </p>
 <p>
    <strong>Colors:</strong> </p>
@@ -113,7 +115,7 @@
    </tbody>
 </table>
 <br/>
-<h2>Finance</h2>
+<h3>Finance</h3>
 <p>The color scheme for the Funding division is based on the CDC public website. The main colors are brown and earth tone.</p>
 <p>
    <strong>Primary Colors:</strong> </p>
