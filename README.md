@@ -63,12 +63,16 @@
    <strong>Primary Colors:</strong> </p>
 <img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/fundingcolor.PNG" alt="Budget Color Options"/>
 <br/>
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/fundingsample.PNG" alt="Budget Color Options"/>
+<br/>
 <br/>
 <h3>Grants</h3>
 <p>The color scheme for the Grants division is based on the CDC public website. The primary colors are of a Forest Green variety and tone. </p>
 <p>
    <strong>Primary Colors:</strong> </p>
 <img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/grantscolor.PNG" alt="Budget Color Options"/>
+<br/>
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/grantssample.PNG" alt="Budget Color Options"/>
 <br/>
 <br/>
 <h3>Budget</h3>
@@ -77,6 +81,8 @@
    <strong>Primary Colors:</strong> </p>
 <img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/budgetcolor.PNG" alt="Budget Color Options"/>
 <br/>
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/budgetsample.PNG" alt="Budget Color Options"/>
+<br/>
 <br/>
 <h3>Contracts</h3>
 <p>The color scheme for the Contracts division is based on the CDC public website. The primary colors are purple and violet. </p>
@@ -84,11 +90,15 @@
    <strong>Colors:</strong> </p>
 <img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/contractscolor.PNG" alt="Budget Color Options"/>
 <br/>
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/contractssample.PNG" alt="Budget Color Options"/>
+<br/>
 <br/>
 <h3>Finance</h3>
 <p>The color scheme for the Funding division is based on the CDC public website. The main colors are brown and earth tone.</p>
 <p>
    <strong>Primary Colors:</strong> </p>
 <img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/financecolor.PNG" alt="Budget Color Options"/>
+<br/>
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/financesample.PNG" alt="Budget Color Options"/>
 <br/>
 <br/>
