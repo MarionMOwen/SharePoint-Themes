@@ -1,4 +1,10 @@
-<p>The Theme Selector demo showcases the different options in color for a site. Any child site can inherit the style/theme as well. Select, highlight, and hover over the demo items below to view the color variants.</p>
+<p>
+	SharePoint Themes are a collection of CSS themes you can use with your Site Collection. Any child site can inherit the style/theme as well. 
+	Select, highlight, and hover over items also has different color variants.
+</p>
+<p>
+	*These CSS do not change the structure of your Site, but only changes the color variants.
+</p>
 <p>
    <strong>Features</strong></p>
 <ul>
@@ -7,7 +13,6 @@
    <li>Child sites inherit colors</li>
    <li>Can be set in the Site Settings per site</li>
 </ul>
-<p>&#160;</p>
 <p>
    <strong>To add the specific color Theme to a site</strong></p>
 <ol>
