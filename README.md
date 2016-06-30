@@ -64,9 +64,9 @@
 <table class="ms-rteTable-default" cellspacing="0" style="width: 25%; color: white;">
    <tbody>
       <tr>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #075290;">#075290</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #075290;">#075290​</td>
          <td class="ms-rteTable-default" style="width: 33.33%; background-color: #3987c8;">#3987c8 </td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #5f98c8;">#5f98c8</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #5f98c8;">#5f98c8​​</td>
       </tr>
    </tbody>
 </table>
@@ -80,9 +80,9 @@
 <table class="ms-rteTable-default" cellspacing="0" style="width: 25%; color: white;">
    <tbody>
       <tr>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #084238;">#084238</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #37a18f;">#37a18f</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #53a194;">#53a194</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #084238;">#084238​​</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #37a18f;">​​#37a18f</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #53a194;">​​#53a194</td>
       </tr>
    </tbody>
 </table>
@@ -91,15 +91,7 @@
 <p>The color scheme for the Budget division is based on the CDC public website. The color scheme is green. </p>
 <p>
    <strong>Primary Colors:</strong> </p>
-<table class="ms-rteTable-default" cellspacing="0" style="width: 25%; color: white;">
-   <tbody>
-      <tr>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #085100;">#085100</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #36a82a;">#36a82a</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #54a84c;">#54a84c</td>
-      </tr>
-   </tbody>
-</table>
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/budgetcolor.PNG" alt="Budget Color Options"/>
 <br/>
 <h3>Contracts</h3>
 <p>The color scheme for the Contracts division is based on the CDC public website. The primary colors are purple and violet. </p>
@@ -108,9 +100,9 @@
 <table class="ms-rteTable-default" cellspacing="0" style="width: 25%; color: white;">
    <tbody>
       <tr>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #3d316a;">#3d316a</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #7b6cb4;">#7b6cb4</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #8a7fb4;">#8a7fb4</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #3d316a;">#3d316a​​</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #7b6cb4;">#7b6cb4​</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #8a7fb4;">​#8a7fb4</td>
       </tr>
    </tbody>
 </table>
@@ -122,9 +114,9 @@
 <table class="ms-rteTable-default" cellspacing="0" style="width: 25%; color: white;">
    <tbody>
       <tr>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #503608;">#503608</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #a87e36;">#a87e36</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #a88955;">#a88955</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #503608;">#503608​​</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #a87e36;">​#a87e36</td>
+         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #a88955;">​#a88955</td>
       </tr>
    </tbody>
 </table>
