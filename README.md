@@ -61,31 +61,15 @@
 <p>The color scheme for the Funding division is based on the CDC public website. The main colors are&#160;similar to the default colors of SharePoint 2013.&#160;</p>
 <p>
    <strong>Primary Colors:</strong> </p>
-<table class="ms-rteTable-default" cellspacing="0" style="width: 25%; color: white;">
-   <tbody>
-      <tr>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #075290;">#075290​</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #3987c8;">#3987c8 </td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #5f98c8;">#5f98c8​​</td>
-      </tr>
-   </tbody>
-</table>
-
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/fundingcolor.PNG" alt="Budget Color Options"/>
 <br/>
-
+<br/>
 <h3>Grants</h3>
 <p>The color scheme for the Grants division is based on the CDC public website. The primary colors are of a Forest Green variety and tone. </p>
 <p>
    <strong>Primary Colors:</strong> </p>
-<table class="ms-rteTable-default" cellspacing="0" style="width: 25%; color: white;">
-   <tbody>
-      <tr>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #084238;">#084238​​</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #37a18f;">​​#37a18f</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #53a194;">​​#53a194</td>
-      </tr>
-   </tbody>
-</table>
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/grantscolor.PNG" alt="Budget Color Options"/>
+<br/>
 <br/>
 <h3>Budget</h3>
 <p>The color scheme for the Budget division is based on the CDC public website. The color scheme is green. </p>
@@ -93,31 +77,18 @@
    <strong>Primary Colors:</strong> </p>
 <img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/budgetcolor.PNG" alt="Budget Color Options"/>
 <br/>
+<br/>
 <h3>Contracts</h3>
 <p>The color scheme for the Contracts division is based on the CDC public website. The primary colors are purple and violet. </p>
 <p>
    <strong>Colors:</strong> </p>
-<table class="ms-rteTable-default" cellspacing="0" style="width: 25%; color: white;">
-   <tbody>
-      <tr>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #3d316a;">#3d316a​​</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #7b6cb4;">#7b6cb4​</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #8a7fb4;">​#8a7fb4</td>
-      </tr>
-   </tbody>
-</table>
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/contractscolor.PNG" alt="Budget Color Options"/>
+<br/>
 <br/>
 <h3>Finance</h3>
 <p>The color scheme for the Funding division is based on the CDC public website. The main colors are brown and earth tone.</p>
 <p>
    <strong>Primary Colors:</strong> </p>
-<table class="ms-rteTable-default" cellspacing="0" style="width: 25%; color: white;">
-   <tbody>
-      <tr>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #503608;">#503608​​</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #a87e36;">​#a87e36</td>
-         <td class="ms-rteTable-default" style="width: 33.33%; background-color: #a88955;">​#a88955</td>
-      </tr>
-   </tbody>
-</table>
+<img src="https://github.com/MarionMOwen/SharePoint-Themes/blob/master/images/financecolor.PNG" alt="Budget Color Options"/>
+<br/>
 <br/>
